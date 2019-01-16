@@ -1,0 +1,4 @@
+This is a sample text that is used to present the power of Java Maps, namely the power
+of HashMaps, Hashtables and LinkedHashMaps.
+
+Also, hello to everybody from Java Code Geeks.
