@@ -1,6 +1,6 @@
 package Java9;
 
-public class Private_Interface_Methods {
+public class Private_Interface_Methods_java8 {
     public static void main(String []args) {
         LogOracle log = new LogOracle();
         log.logInfo("");
